@@ -11,7 +11,7 @@ Windows:
 
 
 <p align="center">
-  <a href="https://oktayshakirov.com"><strong>➥ Live Demo</strong></a>
+  <a href="https://neeraj-pandey.github.io/PortfolioWT2/"><strong>➥ Live Demo</strong></a>
 </p>
 
 
